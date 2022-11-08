@@ -1,0 +1,25 @@
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: -115px;
+}
+
+.search-warning {
+  margin: 0px;
+}
+.search-warning img {
+  height: 612px;
+  width: 1536px;
+}
+
+.text-link {
+  text-decoration: none;
+  color: inherit;
+}
